@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,26,39&height=180&section=header&text=Alexis%20Delgado&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Systems%20Engineer&descSize=18&descAlignY=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,26,39&height=180&section=header&text=Alexis%20Delgado&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%26%20Go%20Architect&descSize=18&descAlignY=62" width="100%" />
 
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Systems+Engineering+Student+%40+Icesi;Building+with+Go%2C+React+Native+%26+Next.js;Designing+Scalable+Backend+Architectures">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Systems+Engineering+Student+%40+Icesi;Building+with+Go%2C+React+Native+%26+Next.js;Designing+Scalable+Backend+Architectures" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Spring+Boot+%26+Java+Specialist;Building+with+Go%2C+React+Native+%26+Next.js;Systems+Engineering+Student+%40+Icesi;Designing+Scalable+Microservices+%26+APIs">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Spring+Boot+%26+Java+Specialist;Building+with+Go%2C+React+Native+%26+Next.js;Systems+Engineering+Student+%40+Icesi;Designing+Scalable+Microservices+%26+APIs" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -16,11 +16,12 @@
 
 ### 👨‍💻 About Me
 
-I am a **Systems Engineering student** at **Universidad Icesi** (Cali, Colombia) and a **Full Stack Developer** passionate about building robust web and mobile applications, clean software architectures, and scalable cloud solutions.
+I am a **Systems Engineering student** at **Universidad Icesi** (Cali, Colombia) and a **Full Stack Developer** specializing in backend architectures with **Spring Boot** and **Go**, alongside modern mobile & web development.
 
-- 💼 **Experience:** Former Full Stack Developer at **Pistis**, developing enterprise applications with Java, Spring Boot, React, Next.js, and NestJS.
-- 🚀 **Featured Project:** Creator of **Ducki**, a mobile social platform for university communities built with **React Native** & **Go**.
-- 🔬 **Academic Focus:** Healthcare Data Audit & Traceability systems, AI analysis models, and microservices architectures.
+- 💼 **Experience:** Former Full Stack Developer at **Pistis**, developing enterprise web applications and robust services with **Java**, **Spring Boot**, **React**, **Next.js**, and **NestJS**.
+- 🚀 **Featured Project:** Creator of **Ducki**, a mobile social platform for college communities built with **React Native** & **Go**.
+- ⚙️ **Backend & Architecture:** Designing microservices, event-driven architectures with **Kafka**, REST APIs, and **Spring Security**.
+- 🔬 **Academic Focus:** Healthcare Data Audit & Traceability systems, AI analysis models, and cloud infrastructure.
 - 🌱 **Currently exploring:** Advanced Go concurrency patterns, distributed systems, and Google Cloud architectures.
 
 ---
@@ -28,12 +29,24 @@ I am a **Systems Engineering student** at **Universidad Icesi** (Cali, Colombia)
 ### 🛠️ Tech Stack & Tools
 
 <details open>
+<summary><b>Backend & Frameworks (Core)</b></summary>
+<br>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring_Security-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+</p>
+</details>
+
+<details open>
 <summary><b>Languages & Core</b></summary>
 <br>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -51,17 +64,6 @@ I am a **Systems Engineering student** at **Universidad Icesi** (Cali, Colombia)
   <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-</details>
-
-<details open>
-<summary><b>Backend & Frameworks</b></summary>
-<br>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 </p>
 </details>
 
